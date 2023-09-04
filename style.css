@@ -1,0 +1,255 @@
+.indexix {
+  background-color: rgb(26, 25, 25);
+}
+.cards {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.contents {
+  text-align: center;
+  border: 1px solid black;
+  width: 450px;
+  height: 400px;
+  border-radius: 5px;
+  color: white;
+}
+.contents img {
+  width: 450px;
+  height: 200px;
+  font-size: 5px;
+}
+.contents h2 {
+  padding: 4px;
+  text-align: center;
+  margin-right: 10px;
+}
+.contents h4 {
+  margin-left: 5px;
+}
+.contents p {
+  color: black;
+  font-size: 20px;
+}
+.contents button {
+  background-color: darkgreen;
+  border-radius: 5px;
+  border: 0px;
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 5px;
+  color: white;
+  transition: 1s;
+}
+.contents button:hover {
+  background-color: lime;
+  color: black;
+}
+.contents1 {
+  border: 1px solid black;
+  width: 450px;
+  height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+}
+.contents1 img {
+  width: 449px;
+  height: 200px;
+  font-size: 5px;
+}
+.contents1 h2 {
+  padding: 4px;
+  text-align: center;
+  margin-right: 10px;
+}
+.contents1 h4 {
+  margin-left: 5px;
+}
+.contents1 p {
+  color: black;
+  font-size: 10px;
+}
+.contents1 button {
+  background-color: darkgreen;
+  border-radius: 5px;
+  border: 0px;
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 5px;
+  color: white;
+  transition: 1s;
+}
+.contents1 button:hover {
+  background-color: lime;
+  color: black;
+}
+.contents2 {
+  border: 1px solid black;
+  width: 450px;
+  height: 400px;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+}
+.contents2 img {
+    width: 450px;
+    height: 200px;
+    font-size: 5px;
+  }
+  .contents2 h2 {
+    padding: 4px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .contents2 h4 {
+    margin-left: 5px;
+  }
+  .contents2 p {
+    color: black;
+    font-size: 16px;
+  }
+  .contents2 button {
+    background-color: darkgreen;
+    border-radius: 5px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    transition: 1s;
+  }
+  .contents2 button:hover {
+    background-color: lime;
+    color: black;
+  }
+  .cards1 {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .contents3 {
+    border: 1px solid black;
+    width: 450px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+  }
+  .contents3 img {
+    width: 450px;
+    height: 200px;
+    font-size: 5px;
+  }
+  .contents3 h2 {
+    padding: 4px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .contents3 h4 {
+    margin-left: 5px;
+  }
+  .contents3 p {
+    color: black;
+    font-size: 11.2px;
+  }
+  .contents3 button {
+    background-color: darkgreen;
+    border-radius: 5px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    transition: 1s;
+  }
+  .contents3 button:hover {
+    background-color: lime;
+    color: black;
+  }
+  .contents4 {
+    border: 1px solid black;
+    width: 450px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+  }
+  .contents4 img {
+    width: 450px;
+    height: 200px;
+    font-size: 5px;
+  }
+  .contents4 h2 {
+    padding: 4px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .contents4 h4 {
+    margin-left: 5px;
+  }
+  .contents4 p {
+    color: black;
+    font-size: 20px;
+  }
+  .contents4 button {
+    background-color: darkgreen;
+    border-radius: 5px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    transition: 1s;
+  }
+  .contents4 button:hover {
+    background-color: lime;
+    color: black;
+  }
+  .contents5 {
+    border: 1px solid black;
+    width: 450px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+  }
+  .contents5 img {
+    width: 450px;
+    height: 200px;
+    font-size: 5px;
+  }
+  .contents5 h2 {
+    padding: 4px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .contents5 h4 {
+    margin-left: 5px;
+  }
+  .contents5 p {
+    color: black;
+    font-size: 20px;
+  }
+  .contents5 button {
+    background-color: darkgreen;
+    border-radius: 5px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    transition: 1s;
+  }
+  .contents5 button:hover {
+    background-color: lime;
+    color: black;
+  }
